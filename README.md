@@ -1,4 +1,4 @@
-# MSL-macOS-Subsystem-for-Linux
+# MSL-macOS-Subsystem-for-LucuzOS
 This is a MSL (macOS Subsystem for LucuzOS). It's the opposite of WSL (Windows Subsystem for Linux) but is the same technology as WSL
 Requirements: 
 -Mac OS X 10.3 Panther or more recent
