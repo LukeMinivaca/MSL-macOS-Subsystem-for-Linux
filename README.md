@@ -1,5 +1,11 @@
 # MSL-macOS-Subsystem-for-Linux
 This is a MSL (macOS Subsystem for LucuzOS). It's the opposite of WSL (Windows Subsystem for Linux) but is the same technology as WSL
+Requirements: 
+-Mac OS X 10.3 Panther or more recent
+-A USB Stick with 16 GB+ or more (Formatted & Extended, Journaled)
+-OCLP (OpenCore Legacy Patcher)
+-8 GB of RAM
+-MacBook 2003-2010 (no longer supported) instead use a MacBook or a iMac from 2014-2023
 
 (In Mac OS X 10.3 Panther is the minimum macOS required for this MSL)
 Commands for Mac OS X 10.3 Panther and Mac OS X 10.4 TIger:
